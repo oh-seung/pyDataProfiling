@@ -14,6 +14,5 @@ setuptools.setup(name='pyDataProfiling',
 				   'numpy>=1.20',
 				   'tqdm>=4.62',
            'cx-Oracle>=8.3.0',
-           'pyodbc>=4.0.32',
-				  ]
+           'pyodbc>=4.0.32', ]
     )
